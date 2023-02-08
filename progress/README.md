@@ -12,7 +12,7 @@ Build the application with `go build .`, then run with a `--url` argument
 specifying the URL of the file to download. For example:
 
 ```
-./progress-download --url="https://download.blender.org/demo/color_vortex.blend"
+./progress-issue --url="https://download.blender.org/demo/color_vortex.blend"
 ```
 
 Note that in this example a TUI will not be shown for URLs that do not respond
